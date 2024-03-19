@@ -1,2 +1,0 @@
-import * as litDependence from '/treidando/static/libraries/lit/lit-all.min.js';
-export const { LitElement, html, css, unsafeHTML, unsafeCSS, choose, map, range, live, repeat, render } = litDependence;
